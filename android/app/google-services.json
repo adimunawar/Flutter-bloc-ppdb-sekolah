@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "244987245969",
+    "firebase_url": "https://sakula-f392c.firebaseio.com",
+    "project_id": "sakula-f392c",
+    "storage_bucket": "sakula-f392c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244987245969:android:ea86ee56877e7e5c641630",
+        "android_client_info": {
+          "package_name": "com.example.sekola"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244987245969-q399dgqe75lrqc35125qv3i5td4j3v2r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf0iQzWNq2HRdcJTQO4Pu0Bj_xvIMxqX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244987245969-q399dgqe75lrqc35125qv3i5td4j3v2r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244987245969:android:6474a47ae059fcde641630",
+        "android_client_info": {
+          "package_name": "com.example.sekolah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244987245969-q399dgqe75lrqc35125qv3i5td4j3v2r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf0iQzWNq2HRdcJTQO4Pu0Bj_xvIMxqX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244987245969-q399dgqe75lrqc35125qv3i5td4j3v2r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
