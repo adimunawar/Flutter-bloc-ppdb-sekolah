@@ -1,6 +1,7 @@
 #  PPDB sekolah
-
-A new Flutter project.
+State Manajemen Bloc,
+Sistem auth Firebase,
+backend laravel
 
 ## Getting Started
 
