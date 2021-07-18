@@ -4,7 +4,9 @@ Sistem auth Firebase,
 backend laravel
 
 
-![Screenshot_2020-11-13-11-05-14-344_com example sekolah](https://user-images.githubusercontent.com/36073952/99027769-ecd15b00-2565-11eb-95dd-900df6954eb0.jpg)
+
+<img src="https://user-images.githubusercontent.com/36073952/99027769-ecd15b00-2565-11eb-95dd-900df6954eb0.jpg" width="200" height="380">
+
 
 ## Getting Started
 
